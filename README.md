@@ -68,7 +68,7 @@ On Windows PowerShell:
 
 The program displays the agent's perceptions, movements, cleaning actions, and a message when both rooms are clean.
 
-![AI Vacuum Cleaner Agent Output](images/program-output.png)
+![AI Vacuum Cleaner Agent Output](images/program-output-.png)
 
 ## Coursework
 
